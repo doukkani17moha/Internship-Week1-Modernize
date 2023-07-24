@@ -86,6 +86,3 @@ Temporalité : 6 jours
 Lien du Repo Github contenant tout le travail réalisé à chaque phase comme mentionné au
 contexte.<br>
 ----------------------------------------------------------------------------------------------------------------------------
-<h4> <ins>Login Page</ins></h4><br>
-![login](https://github.com/doukkani17moha/Internship-Week1-Modernize/assets/70285301/5cb2ea5c-178a-434d-a094-50c52ed72f11)
-
