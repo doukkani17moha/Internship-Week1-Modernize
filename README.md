@@ -86,3 +86,38 @@ Temporalité : 6 jours
 Lien du Repo Github contenant tout le travail réalisé à chaque phase comme mentionné au
 contexte.<br>
 ----------------------------------------------------------------------------------------------------------------------------
+<h4 align="center" > <ins>Login Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/login.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Dashboard Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/dashboard.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Add Patient Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/addpatient.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Manage Patients Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/managepatients.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>All Doctors Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/alldoctors.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>All Blogs Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/allblogs.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>All Appointements Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/AllAppointements.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Home Page</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/home.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>About</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/About.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Service</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/service.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Take an Appointement</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/takeappointement.PNG" alt="logo" width="90%" /></p>
+<p align="center">-------------------------------</p>
+<h4 align="center" > <ins>Contact</ins></h4>
+<p align="center"><img src="admin/assets/readmeimg/contactus.PNG" alt="logo" width="90%" /></p>
